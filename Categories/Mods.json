@@ -1,0 +1,28 @@
+[
+    {
+        "name":"中世纪大炮与马鞍",
+        "type":"mod",
+        "authors":["me"],
+        "cover":"https://i.loli.net/2017/08/24/599ed07d0b758.jpg",
+        "introduction":"我要中世纪大马鞍!!",
+        "headImage":"https://i.loli.net/2017/08/24/599ed07f4b8fe.png",
+        "description":"为你的世界增加一个故事主线, 一大堆中世纪风格的建筑以及方块. 同时你还可以建造诸如攻城车等载具对敌方城堡进行攻击. 然而...这个模组是我瞎掰的..",
+        "link":"http://www.ac682.win",
+        "versions":[
+            {
+                "minecraft":"1.7.10",
+                "url":"http://market.cubizen.cn/dist/NetMapping.zip"
+            }
+        ],
+        "screenshots":[
+            {
+                "banner":"好看不?",
+                "url":"https://i.loli.net/2017/08/25/59a01c7118c67.jpg"
+            },
+            {
+                "banner":"好不好看呀?",
+                "url":"https://i.loli.net/2017/08/25/59a01c72f3549.png"
+            }
+        ]
+    }
+]

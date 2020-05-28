@@ -1,0 +1,22 @@
+{
+    "package": 
+    {
+        "name": "NewsToday",
+        "version": "2017.4.9",
+        "authors":[ "me" ],
+        "decription": "Everyone's life can be longer by 1s.",
+        "download":"http://ys-l.ys168.com/392558236/k4J4K533XK6MMUKVsgX/Cube.Pro.Gadgets.NewsToday.slice"
+    },
+    "recommended":{
+        "displayName":"随便起，贴近就行",
+        "name":"对应包的name",
+        "introduction":"描述",
+        "image":"https://ooo.0o0.ooo/2017/07/06/595e00c3cd8aa.png"
+    },
+    "language":
+    {
+        "language":"简体中文",
+        "name":"languagePack_zh_CN",
+        "translators":["Me"]
+    }
+}

@@ -1,0 +1,90 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+ 
+    <sys:String x:Key="Language_Name">English(United States)</sys:String>
+    <sys:String x:Key="Title_Start">Start</sys:String>
+    <sys:String x:Key="Title_Console">Console</sys:String>
+    <sys:String x:Key="Title_ServerManage">Panel</sys:String>
+    <sys:String x:Key="Title_Store">Store</sys:String>
+    <sys:String x:Key="Title_ResourcesManage">Resourse Manager</sys:String>
+    <sys:String x:Key="Title_ServerSetting">Server Setting</sys:String>
+    <sys:String x:Key="Title_Gadget">Gadget</sys:String>
+    <sys:String x:Key="Title_Plugin">Plugin</sys:String>
+    <sys:String x:Key="Title_UserCenter">User Center</sys:String>
+    <sys:String x:Key="Title_CubeGuide">Cube Wizard</sys:String>
+    
+    <sys:String x:Key="Right_Query">Search</sys:String>
+    <sys:String x:Key="Right_Setting">Setting</sys:String>
+    <sys:String x:Key="Right_About">About</sys:String>
+        
+    <sys:String x:Key="MainWelcome"> Start </sys:String>
+    <sys:String x:Key="UserTitle"> User </sys:String>
+    <sys:String x:Key="UserName"> User name </sys:String>
+    <sys:String x:Key="UserPassword">Password</sys:String>
+    
+    <sys:String x:Key="Button_OK">Allow</sys:String>
+    <sys:String x:Key="Button_No">Cancel</sys:String>
+    <sys:String x:Key="Button_NextStep">Next</sys:String>
+    <sys:String x:Key="Button_Back">Return</sys:String>
+    <sys:String x:Key="Button_Finish">Complete</sys:String>
+    <sys:String x:Key="Button_Push">Submit</sys:String>
+    <sys:String x:Key="Button_StartServer">Start Server</sys:String>
+    <sys:String x:Key="Button_StopServer">Turn off the server</sys:String>
+    <sys:String x:Key="Button_RestartServer">Restart the server</sys:String>
+    <sys:String x:Key="Button_Log/Reg">Login / Registration</sys:String>
+    <sys:String x:Key="Button_JavaFinding">Automatically find</sys:String>
+    <sys:String x:Key="Button_Resetback">To restore the default</sys:String>
+    
+    <sys:String x:Key="Home_Console">Console</sys:String>
+    <sys:String x:Key="Home_ServerManage">Panel</sys:String>
+    <sys:String x:Key="Home_Store">Store</sys:String>
+    <sys:String x:Key="Home_ResourcesManage">Resource manager</sys:String>
+    <sys:String x:Key="Home_ServerSetting">Server settings </sys:String>
+    <sys:String x:Key="Home_Gadget">Gadget</sys:String>
+    <sys:String x:Key="Home_Plugin">Plugin</sys:String>
+    <sys:String x:Key="Home_UserCenter">User Center</sys:String>
+    <sys:String x:Key="Home_CubeGuide">Cube Wizard</sys:String>
+    
+    <sys:String x:Key="Console_Title">Console output</sys:String>
+    <sys:String x:Key="Console_1">All</sys:String>
+    <sys:String x:Key="Console_2">Information</sys:String>
+    <sys:String x:Key="Console_3">Warning</sys:String>
+    <sys:String x:Key="Console_4">Errors</sys:String>
+    <sys:String x:Key="Console_5">Text</sys:String>
+    <sys:String x:Key="Console_Push">To send commands to the server</sys:String>
+    
+    <sys:String x:Key="ServerManage_Title">State control</sys:String>
+    <sys:String x:Key="ServerManage_IP">Current IP</sys:String>
+    <sys:String x:Key="ServerManage_OnlinePeople">User online</sys:String>
+    
+    <sys:String x:Key="CubeGuide_Welcome">Here is the Cube Wizard</sys:String>
+    <sys:String x:Key="CubeGuide_Describe_1">As you can see, there's nothing here, I mean, building...</sys:String>
+    <sys:String x:Key="CubeGuide_Describe_2">(building Means that the project is not automatically saved in the set, only here is automatically saved)</sys:String>
+    <sys:String x:Key="CubeGuide_Project_Java">Java executable path:</sys:String>
+    <sys:String x:Key="CubeGuide_Project_ServerJar">The server executable path:</sys:String>
+    <sys:String x:Key="CubeGuide_Project_MaxRAM">Maximum memory setting:</sys:String>
+    <sys:String x:Key="CubeGuide_Project_Picture">Background picture</sys:String>
+    <sys:String x:Key="CubeGuide_OK">Great, you've completed all the steps!</sys:String>
+    <sys:String x:Key="CubeGuide_Prompt">Click the top left of the title bar ' (Home icon) ' Home</sys:String>
+    
+    <sys:String x:Key="Query_Title">Query</sys:String>
+    <sys:String x:Key="Query_Prompt">Plug-in failed </sys:String>
+    
+    <sys:String x:Key="Setting_Title">Set</sys:String>
+    <sys:String x:Key="Setting_Class_Game">Game</sys:String>
+    <sys:String x:Key="Setting_Class_Vision">Vision</sys:String>
+    <sys:String x:Key="Setting_Java">Java Path</sys:String>
+    <sys:String x:Key="Setting_ServerJar">Service Jar File</sys:String>
+    <sys:String x:Key="Setting_Pro">Extension parameters</sys:String>
+    <sys:String x:Key="Setting_bgpicture">Background Picture</sys:String>
+    
+    <sys:String x:Key="About_Title">About ( No other Language )</sys:String>
+    
+    <sys:String x:Key="Error_Title">Bang, bang! Decoration page!</sys:String>
+    <sys:String x:Key="Error_Prompt">This page is building...</sys:String>
+ 
+</ResourceDictionary>
+
+<!--Translate By SOCS Studio-->
+<!--http://www.socs-studio.cc-->

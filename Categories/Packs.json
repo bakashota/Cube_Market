@@ -1,0 +1,19 @@
+[
+    {
+        "name":"蒹葭盛世",
+        "type":"pack",
+        "authors":["me"],
+        "cover":"https://i.loli.net/2017/08/24/599ed07d0b758.jpg",
+        "introduction":"蒹葭, 一种植物, 现在是它的王朝.",
+        "headImage":"https://i.loli.net/2017/08/24/599ed07f4b8fe.png",
+        "description":"你是谁? 你在哪? 你要做什么? \n快来玩蒹葭盛世服务器吧.\n就算你下载了也不会知道以上问题的.",
+        "link":"http://www.ac682.win",
+        "versions":[
+            {
+                "minecraft":"1.7.10",
+                "url":"no download"
+            }
+        ],
+        "screenshots":[]
+    }
+]

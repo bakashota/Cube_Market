@@ -1,0 +1,24 @@
+[
+    {
+        "name":"for display",
+        "type":"the type of this resource",
+        "authors":["someone"],
+        "cover":"the image for icon",
+        "introduction":"a short description",
+        "headImage":"the banner which is placed at the top of the detail page",
+        "description":"can be short or long, as the provider gives",
+        "link":"for more information",
+        "screenshots":[
+            {
+                "banner":"the text for description",
+                "url":"the image url"
+            }
+        ],
+        "versions":[
+            {
+                "minecraft":"1.7.10",
+                "url":"url to download"
+            }
+        ]
+    }
+]

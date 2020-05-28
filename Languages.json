@@ -1,0 +1,17 @@
+[
+    {
+        "language":"简体中文",
+        "name":"languagePack_zh_CN",
+        "translators":["Xiao_Fang_He"]
+    },
+    {
+        "language":"繁体中文",
+        "name":"languagePack_zh_TW",
+        "translators":["ideafreedom"]
+    },
+    {
+        "language":"English",
+        "name":"languagePack_en_US",
+        "translators":["ideafreedom"]
+    }
+]

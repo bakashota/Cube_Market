@@ -1,0 +1,88 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+    <sys:String x:Key="Language_Name">简体中文（中国大陆）</sys:String>
+
+    <sys:String x:Key="Title_Start">开始</sys:String>
+	<sys:String x:Key="Title_Console">控制台</sys:String>
+	<sys:String x:Key="Title_ServerManage">仪表盘</sys:String>
+	<sys:String x:Key="Title_Store">市场</sys:String>
+	<sys:String x:Key="Title_ResourcesManage">资源管理</sys:String>
+	<sys:String x:Key="Title_ServerSetting">服务器设置</sys:String>
+	<sys:String x:Key="Title_Gadget">小工具</sys:String>
+	<sys:String x:Key="Title_Plugin">模块</sys:String>
+	<sys:String x:Key="Title_UserCenter">用户中心</sys:String>
+	<sys:String x:Key="Title_CubeGuide">魔方向导</sys:String>
+	
+	<sys:String x:Key="Right_Query">查询</sys:String>
+	<sys:String x:Key="Right_Setting">设置</sys:String>
+	<sys:String x:Key="Right_About">关于</sys:String>
+	
+    <sys:String x:Key="MainWelcome">开始</sys:String>
+	<sys:String x:Key="UserTitle">用户</sys:String>
+	<sys:String x:Key="UserName">用户名</sys:String>
+	<sys:String x:Key="UserPassword">密码</sys:String>
+
+    <sys:String x:Key="Button_OK">允许</sys:String>
+    <sys:String x:Key="Button_No">取消</sys:String>
+    <sys:String x:Key="Button_NextStep">下一步</sys:String>
+    <sys:String x:Key="Button_Back">返回</sys:String>
+    <sys:String x:Key="Button_Finish">完成</sys:String>
+	<sys:String x:Key="Button_Push">提交</sys:String>
+	<sys:String x:Key="Button_StartServer">开启服务器</sys:String>
+	<sys:String x:Key="Button_StopServer">关闭服务器</sys:String>
+	<sys:String x:Key="Button_RestartServer">重启服务器</sys:String>
+	<sys:String x:Key="Button_Log/Reg">登录/注册</sys:String>
+	<sys:String x:Key="Button_JavaFinding">自动查找</sys:String>
+	<sys:String x:Key="Button_Resetback">恢复默认</sys:String>
+
+	<sys:String x:Key="Home_Console">控制台</sys:String>
+	<sys:String x:Key="Home_ServerManage">仪表盘</sys:String>
+	<sys:String x:Key="Home_Store">市场</sys:String>
+	<sys:String x:Key="Home_ResourcesManage">资源管理</sys:String>
+	<sys:String x:Key="Home_ServerSetting">服务器设置</sys:String>
+	<sys:String x:Key="Home_Gadget">小工具</sys:String>
+	<sys:String x:Key="Home_Plugin">模块</sys:String>
+	<sys:String x:Key="Home_UserCenter">用户中心</sys:String>
+	<sys:String x:Key="Home_CubeGuide">魔方向导</sys:String>
+	
+	<sys:String x:Key="Console_Title">控制台输出</sys:String>
+	<sys:String x:Key="Console_1">全部</sys:String>
+	<sys:String x:Key="Console_2">信息</sys:String>
+	<sys:String x:Key="Console_3">警告</sys:String>
+	<sys:String x:Key="Console_4">错误</sys:String>
+	<sys:String x:Key="Console_5">文本</sys:String>
+	<sys:String x:Key="Console_Push">向服务器发送指令</sys:String>
+	
+	<sys:String x:Key="ServerManage_Title">状态控制</sys:String>
+	<sys:String x:Key="ServerManage_IP">当前IP</sys:String>
+	<sys:String x:Key="ServerManage_OnlinePeople">在线人数</sys:String>
+	
+	<sys:String x:Key="CubeGuide_Welcome">这里是 魔方向导</sys:String>
+	<sys:String x:Key="CubeGuide_Describe_1">如你所见，这里什么都没有，我是说，building...</sys:String>
+	<sys:String x:Key="CubeGuide_Describe_2">（building的意思就是说，设置里的项目是不会自动保存的，只有这里的会自动保存）</sys:String>
+	<sys:String x:Key="CubeGuide_Project_Java">爪哇可执行文件路径：</sys:String>
+	<sys:String x:Key="CubeGuide_Project_ServerJar">服务器可执行文件路径：</sys:String>
+	<sys:String x:Key="CubeGuide_Project_MaxRAM">最大内存设置：</sys:String>
+	<sys:String x:Key="CubeGuide_Project_Picture">背景图片</sys:String>
+	<sys:String x:Key="CubeGuide_OK">牛逼啊，你已经完成了所有的步骤！</sys:String>
+	<sys:String x:Key="CubeGuide_Prompt">单击左上方标题栏的'（主页图标）'返回首页</sys:String>
+	
+	<sys:String x:Key="Query_Title">查询</sys:String>
+	<sys:String x:Key="Query_Prompt">插件执行失败</sys:String>
+	
+	<sys:String x:Key="Setting_Title">设置</sys:String>
+	<sys:String x:Key="Setting_Class_Game">游戏</sys:String>
+	<sys:String x:Key="Setting_Class_Vision">视觉</sys:String>
+	<sys:String x:Key="Setting_Java">Java路径</sys:String>
+	<sys:String x:Key="Setting_ServerJar">服务端Jar文件</sys:String>
+	<sys:String x:Key="Setting_Pro">扩展参数</sys:String>
+	<sys:String x:Key="Setting_bgpicture">背景图片</sys:String>
+	
+	<sys:String x:Key="About_Title">关于（No other Language）</sys:String>
+	
+	<sys:String x:Key="Error_Title">砰砰砰！装修页面！</sys:String>
+	<sys:String x:Key="Error_Prompt">这个页面正在装修......</sys:String>
+
+</ResourceDictionary>

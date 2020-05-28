@@ -1,0 +1,20 @@
+[
+    {
+        "displayName":"路由侠",
+        "name":"Luyouxia",
+        "introduction":"由路由侠提供的一款服务端映射工具.",
+        "image":"https://i.loli.net/2017/08/15/59928871651b0.png"
+	},
+    {
+        "displayName":"[暂停提供]树洞映射",
+        "name":"",
+        "introduction":"[因用户反映无法连接至鉴权服务器，且容易未响应，我们暂停提供~]由树洞提供的一款服务端映射工具.",
+        "image":"https://i.loli.net/2017/08/15/59928b0adefe1.png"
+	},
+	{
+		"displayName":"控制台输出备份",
+		"name":"ConsoleSave",
+		"introduction":"备份控制台输出到backups文件夹",
+		"image":"https://i.loli.net/2017/08/15/5992945f8ee7c.png"
+	}
+]

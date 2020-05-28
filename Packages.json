@@ -1,0 +1,26 @@
+[
+    {
+    	"name":"Luyouxia",
+    	"version":"beta 0.5",
+    	"support":"",
+    	"authors":["路由侠科技有限公司"],
+    	"description":"一款由路由侠提供的服务端映射工具.",
+    	"download":"http://market.cubizen.cn/dist/Luyouxia.zip"
+	},
+    {
+    	"name":"NetMapping.Install",
+    	"version":"2017.7.17",
+    	"support":"",
+    	"authors":["X175"],
+    	"description":"一款由树洞提供的服务端映射工具.",
+    	"download":"http://market.cubizen.cn/dist/NetMapping.zip"
+	},
+	{
+		"name":"ConsoleSave",
+		"version":"2017.8.4",
+		"support":"http://ac682.win",
+		"authors":["Ac682"],
+		"description":"将服务器控制台输出保存到本地作为备份于自动化",
+		"download":"http://market.cubizen.cn/dist/ConsoleSave.zip"
+	}
+]
